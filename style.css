@@ -1,0 +1,41 @@
+*{
+	box-sizing:border-box;
+}
+
+nav{
+	background-color:gray;
+}
+
+aside{
+	background-color:pink;
+}
+
+article{
+	background-color:steelblue;
+	font-family:poppins;
+}
+
+img{
+	width:300px;
+	height:200px;
+}
+
+.carousel-inner{
+	height:500px;
+	text-align:center;
+}
+
+.carousel-inner img{
+	width:50%;
+	height:50%;
+}
+
+header{
+	text-align:center;
+	background-color:white;
+	font-family:anton;
+	font-size:30px;
+}
+
+
+
